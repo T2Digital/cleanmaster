@@ -93,13 +93,13 @@
       <div class="serviceItem">
         <label>اختر الخدمة</label>
         <select class="service" onchange="calculatePrice()">
-          <option value="10">تنظيف شقه (سعر المتر 10ج)</option>
+          <option value="14">تنظيف شقه بعد التشطيب (سعر المتر 14ج)</option>
           <option value="7">تنظيف سجاد المسجد (سعر المتر 7ج)</option>
           <option value="100">تنظيف السجاد (صغيرة 100ج)</option>
           <option value="150">تنظيف السجاد (كبيرة 150ج)</option>
           <option value="150">تنظيف ستائر (صغيرة 150ج)</option>
           <option value="200">تنظيف ستائر (كبيرة 200ج)</option>
-          <option value="350">تنظيف الأنتريهات (350ج)</option>
+          <option value="450">تنظيف الأنتريهات (450ج)</option>
           <option value="450">تنظيف الركن (صغيرة 450ج)</option>
           <option value="70">تنظيف الركن (كبيرة سعر المتر 70ج)</option>
           <option value="350">تنظيف مراتب (صغيرة 350ج)</option>
